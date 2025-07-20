@@ -7,4 +7,4 @@ services:
     startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"
     envVars:
       - key: MONGO_URI
-        sync: false
+        value: "mongodb+srv://jhaanurag332:jHa3GgmLvvpD79Mz@cluster0.tee8ejv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
