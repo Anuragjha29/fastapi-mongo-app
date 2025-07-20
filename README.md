@@ -43,3 +43,12 @@ Returns a list of products. Supports optional filters:
 
 ```bash
 GET /products?category=electronics&min_price=100&sort_by=price&order=asc
+
+## 🚀 Live Demo
+
+🔗 **Live URL:** [https://fastapi-mongo-app.onrender.com](https://fastapi-mongo-app.onrender.com)
+
+📘 **Docs:** [https://fastapi-mongo-app.onrender.com/docs](https://fastapi-mongo-app.onrender.com/docs) — Auto-generated Swagger UI
+
+---
+
